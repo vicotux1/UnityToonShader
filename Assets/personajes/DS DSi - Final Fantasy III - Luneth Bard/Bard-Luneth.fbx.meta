@@ -1,0 +1,4188 @@
+fileFormatVersion: 2
+guid: e5b497807013b964ca1a97a38d2b0a60
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -2775025762432305960
+    second: anim0
+  - first:
+      74: 4057566752470067675
+    second: anim1
+  - first:
+      74: 1655740250294795546
+    second: anim2
+  - first:
+      74: 979506550278943245
+    second: anim3
+  - first:
+      74: -4362716201757072861
+    second: anim4
+  - first:
+      74: 5805698124257829051
+    second: anim5
+  - first:
+      74: 4763773763663784023
+    second: anim6
+  - first:
+      74: 2284201157604770547
+    second: anim7
+  - first:
+      74: -2842092398419905825
+    second: anim8
+  - first:
+      74: -703118193099512955
+    second: Walk
+  - first:
+      74: 4087699145684914444
+    second: Run
+  - first:
+      74: -5360049249670796648
+    second: anim11
+  - first:
+      74: 1635831689648428675
+    second: anim12
+  - first:
+      74: -6046912885648551108
+    second: anim13
+  - first:
+      74: -7545628674143100551
+    second: anim14
+  - first:
+      74: -3665533671290560770
+    second: anim15
+  - first:
+      74: -3525339580457315291
+    second: anim16
+  - first:
+      74: -591598121450901706
+    second: anim17
+  - first:
+      74: 6862232685612181325
+    second: anim18
+  - first:
+      74: -8973524737544409821
+    second: anim19
+  - first:
+      74: -2839970039855887063
+    second: anim20
+  - first:
+      74: -6755242011813156296
+    second: anim21
+  - first:
+      74: -7296239119183741179
+    second: anim22
+  - first:
+      74: -958038569191603521
+    second: anim23
+  - first:
+      74: -785041738989145697
+    second: anim24
+  - first:
+      74: -1890640037403931688
+    second: anim25
+  - first:
+      74: 4641362668488797417
+    second: anim26
+  - first:
+      74: 3754983153751066599
+    second: anim27
+  - first:
+      74: -7735865491530669910
+    second: anim28
+  - first:
+      74: -6090201482796144039
+    second: anim29
+  - first:
+      74: 2167590131240418585
+    second: anim30
+  - first:
+      74: -943643054126530880
+    second: anim31
+  - first:
+      74: -3534137163645368499
+    second: anim32
+  - first:
+      74: 8339329775421146715
+    second: anim33
+  - first:
+      74: 1126439674993787416
+    second: anim34
+  - first:
+      74: -6800198390266453673
+    second: anim35
+  - first:
+      74: -8470785799454389067
+    second: anim36
+  - first:
+      74: 6186540387347878035
+    second: anim37
+  - first:
+      74: -7940323636109902210
+    second: anim38
+  - first:
+      74: -8784548374536441735
+    second: anim39
+  - first:
+      74: -4041462259774508380
+    second: anim40
+  - first:
+      74: -4993111560834219055
+    second: anim41
+  - first:
+      74: 8400064974328402614
+    second: anim42
+  - first:
+      74: 6707456916808700840
+    second: anim43
+  - first:
+      74: 6705385051716252393
+    second: anim44
+  - first:
+      74: -4608064827255464206
+    second: anim45
+  - first:
+      74: 1885802037802645453
+    second: anim46
+  - first:
+      74: 2041385831610261712
+    second: anim47
+  - first:
+      74: 7474302761697262612
+    second: anim48
+  - first:
+      74: 8285277826996108994
+    second: anim49
+  - first:
+      74: 5323151098286146842
+    second: anim50
+  - first:
+      74: -8426116074277144510
+    second: anim51
+  - first:
+      74: 1237766478723668047
+    second: anim52
+  - first:
+      74: 8503919620807312329
+    second: anim53
+  - first:
+      74: -4975685258733398652
+    second: anim54
+  - first:
+      74: -3493556515143373800
+    second: anim55
+  - first:
+      74: -8097369532996968916
+    second: anim56
+  - first:
+      74: 1388288218861365718
+    second: anim57
+  - first:
+      74: 5592045346096794727
+    second: anim58
+  - first:
+      74: 3179052267099193571
+    second: anim59
+  - first:
+      74: 1292217038043672768
+    second: anim60
+  - first:
+      74: -6875863156359793341
+    second: anim61
+  - first:
+      74: -5049461873249174155
+    second: anim62
+  - first:
+      74: -8989360955678297372
+    second: anim63
+  - first:
+      74: -3091762479202041707
+    second: anim64
+  - first:
+      74: -2716724275156207452
+    second: anim65
+  - first:
+      74: 882674865416962911
+    second: anim66
+  - first:
+      74: 1897644018757370752
+    second: anim67
+  - first:
+      74: 2636484336066227575
+    second: anim68
+  - first:
+      74: 2962145642827550915
+    second: anim69
+  - first:
+      74: 2657797393585993364
+    second: anim70
+  - first:
+      74: -301719661759786770
+    second: anim71
+  - first:
+      74: -5480231180904124644
+    second: anim72
+  - first:
+      74: -6990260758683615209
+    second: anim73
+  - first:
+      74: -2245649015753207853
+    second: anim74
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a
+    second: {fileID: 2100000, guid: 7d185fcbb298852459401c7475bea78c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: c1d74d0b78bd41b4eaac1f9c4606a26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 4fa8cfa3fbd18214aacc84a321bbbcb9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'anim0' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'kosi' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'kosi' has scale animation that will be
+      discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim1' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim2' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim3' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim4' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim5' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim6' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim7' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim8' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_asi' has scale animation
+      that will be discarded.\n\t'hara' has scale animation that will be discarded.\n\t'mune'
+      has scale animation that will be discarded.\n\t'L_sakotu' has scale animation
+      that will be discarded.\n\t'L_kata' has scale animation that will be discarded.\n\t'L_ude'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim9' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim10' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim11' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim12' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim13' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim14' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\nClip 'anim15' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'kosi' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'kosi' has scale animation that will be
+      discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\nClip
+      'anim16' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim17' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim18' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim19' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim20' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim21' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_kata' has scale animation that will be discarded.\n\t'L_ude'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim22' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim23' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim24' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_asi' has scale animation
+      that will be discarded.\n\t'hara' has scale animation that will be discarded.\n\t'mune'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim25' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim26' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim27' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim28' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim29' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim30' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim31' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim32' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim33' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'mune' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim34' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim35' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim36' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim37' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim38' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim39' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim40' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim41' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim42' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim43' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim44' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim45' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim46' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim47' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim48' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim49' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim50' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim51' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim52' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim53' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim54' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim55' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim56' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim57' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim58' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim59' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim60' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim61' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim62' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim63' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'R_sakotu' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim64' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim65' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_asi' has scale animation that
+      will be discarded.\n\t'hara' has scale animation that will be discarded.\n\t'mune'
+      has scale animation that will be discarded.\n\t'L_sakotu' has scale animation
+      that will be discarded.\n\t'L_kata' has scale animation that will be discarded.\n\t'L_ude'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim66' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'R_te' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim67' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_sakotu'
+      has scale animation that will be discarded.\n\t'R_kata' has scale animation
+      that will be discarded.\n\t'R_ude' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim68' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim69' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim70' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim71' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_kata'
+      has scale animation that will be discarded.\n\t'R_ude' has scale animation
+      that will be discarded.\n\t'R_te' has scale animation that will be discarded.\n\t'kubi'
+      has scale animation that will be discarded.\n\t'atama' has scale animation
+      that will be discarded.\n\nClip 'anim72' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'kosi' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'kosi' has scale animation
+      that will be discarded.\n\t'R_momo' has scale animation that will be discarded.\n\t'R_hiza'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_hiza'
+      has scale animation that will be discarded.\n\t'R_sune' has scale animation
+      that will be discarded.\n\t'R_asi' has scale animation that will be discarded.\n\t'L_momo'
+      has scale animation that will be discarded.\n\t'L_hiza' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_hiza' has
+      scale animation that will be discarded.\n\t'L_sune' has scale animation that
+      will be discarded.\n\t'L_asi' has scale animation that will be discarded.\n\t'hara'
+      has scale animation that will be discarded.\n\t'mune' has scale animation that
+      will be discarded.\n\t'L_sakotu' has scale animation that will be discarded.\n\t'L_kata'
+      has scale animation that will be discarded.\n\t'L_ude' has scale animation
+      that will be discarded.\n\t'L_te' has scale animation that will be discarded.\n\t'R_te'
+      has scale animation that will be discarded.\n\t'kubi' has scale animation that
+      will be discarded.\n\t'atama' has scale animation that will be discarded.\n\nClip
+      'anim73' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'kosi'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'kosi'
+      has scale animation that will be discarded.\n\t'R_momo' has scale animation
+      that will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'R_hiza' has scale animation
+      that will be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n\nClip 'anim74' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'kosi' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'kosi' has
+      scale animation that will be discarded.\n\t'R_momo' has scale animation that
+      will be discarded.\n\t'R_hiza' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_hiza' has scale animation that will
+      be discarded.\n\t'R_sune' has scale animation that will be discarded.\n\t'R_asi'
+      has scale animation that will be discarded.\n\t'L_momo' has scale animation
+      that will be discarded.\n\t'L_hiza' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'L_hiza' has scale animation
+      that will be discarded.\n\t'L_sune' has scale animation that will be discarded.\n\t'L_asi'
+      has scale animation that will be discarded.\n\t'hara' has scale animation that
+      will be discarded.\n\t'mune' has scale animation that will be discarded.\n\t'L_sakotu'
+      has scale animation that will be discarded.\n\t'L_kata' has scale animation
+      that will be discarded.\n\t'L_ude' has scale animation that will be discarded.\n\t'L_te'
+      has scale animation that will be discarded.\n\t'R_sakotu' has scale animation
+      that will be discarded.\n\t'R_kata' has scale animation that will be discarded.\n\t'R_ude'
+      has scale animation that will be discarded.\n\t'R_te' has scale animation that
+      will be discarded.\n\t'kubi' has scale animation that will be discarded.\n\t'atama'
+      has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: anim0
+      takeName: anim0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim1
+      takeName: anim1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim2
+      takeName: anim2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim3
+      takeName: anim3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim4
+      takeName: anim4
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim5
+      takeName: anim5
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim6
+      takeName: anim6
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim7
+      takeName: anim7
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim8
+      takeName: anim8
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: anim9
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: anim10
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim11
+      takeName: anim11
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim12
+      takeName: anim12
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim13
+      takeName: anim13
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim14
+      takeName: anim14
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim15
+      takeName: anim15
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim16
+      takeName: anim16
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim17
+      takeName: anim17
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim18
+      takeName: anim18
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim19
+      takeName: anim19
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim20
+      takeName: anim20
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim21
+      takeName: anim21
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim22
+      takeName: anim22
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim23
+      takeName: anim23
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim24
+      takeName: anim24
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim25
+      takeName: anim25
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim26
+      takeName: anim26
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim27
+      takeName: anim27
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim28
+      takeName: anim28
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim29
+      takeName: anim29
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim30
+      takeName: anim30
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim31
+      takeName: anim31
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim32
+      takeName: anim32
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim33
+      takeName: anim33
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim34
+      takeName: anim34
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim35
+      takeName: anim35
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim36
+      takeName: anim36
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim37
+      takeName: anim37
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim38
+      takeName: anim38
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim39
+      takeName: anim39
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim40
+      takeName: anim40
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim41
+      takeName: anim41
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim42
+      takeName: anim42
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim43
+      takeName: anim43
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim44
+      takeName: anim44
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim45
+      takeName: anim45
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim46
+      takeName: anim46
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim47
+      takeName: anim47
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim48
+      takeName: anim48
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim49
+      takeName: anim49
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim50
+      takeName: anim50
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim51
+      takeName: anim51
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim52
+      takeName: anim52
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim53
+      takeName: anim53
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim54
+      takeName: anim54
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim55
+      takeName: anim55
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim56
+      takeName: anim56
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim57
+      takeName: anim57
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim58
+      takeName: anim58
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim59
+      takeName: anim59
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim60
+      takeName: anim60
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim61
+      takeName: anim61
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim62
+      takeName: anim62
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim63
+      takeName: anim63
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim64
+      takeName: anim64
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim65
+      takeName: anim65
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim66
+      takeName: anim66
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim67
+      takeName: anim67
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim68
+      takeName: anim68
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim69
+      takeName: anim69
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim70
+      takeName: anim70
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim71
+      takeName: anim71
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim72
+      takeName: anim72
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim73
+      takeName: anim73
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: anim74
+      takeName: anim74
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: body
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_momo
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_momo
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_sune
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_sune
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_asi
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_asi
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hara
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mune
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: kubi
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: atama
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_sakotu
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_sakotu
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_kata
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_kata
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_ude
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_ude
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_te
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_te
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: j117(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j117
+      parentName: j117(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: j117(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: trans
+      parentName: root
+      position: {x: -0, y: 0.005537842, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: trans
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kosi
+      parentName: body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_momo
+      parentName: kosi
+      position: {x: 0.001191162, y: -0.0013879394, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_hiza
+      parentName: R_momo
+      position: {x: -0, y: -0.0013627929, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_sune
+      parentName: R_hiza
+      position: {x: -0, y: -0.00051000976, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_asi
+      parentName: R_sune
+      position: {x: -0, y: -0.0015878908, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_momo
+      parentName: kosi
+      position: {x: -0.001191162, y: -0.0013879394, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_hiza
+      parentName: L_momo
+      position: {x: -0, y: -0.0013627929, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_sune
+      parentName: L_hiza
+      position: {x: -0, y: -0.00051000976, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_asi
+      parentName: L_sune
+      position: {x: -0, y: -0.0015878908, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hara
+      parentName: body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mune
+      parentName: hara
+      position: {x: -0, y: 0.0016044921, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_sakotu
+      parentName: mune
+      position: {x: -0.0005480957, y: 0.0015297852, z: 0.0001418457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_kata
+      parentName: L_sakotu
+      position: {x: -0.0005776367, y: 0.00008935547, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_ude
+      parentName: L_kata
+      position: {x: -0.0020478514, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_te
+      parentName: L_ude
+      position: {x: -0.0017524415, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_sakotu
+      parentName: mune
+      position: {x: 0.0005480957, y: 0.0015297852, z: 0.0001418457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_kata
+      parentName: R_sakotu
+      position: {x: 0.0005778809, y: 0.00008935547, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_ude
+      parentName: R_kata
+      position: {x: 0.0020480957, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_te
+      parentName: R_ude
+      position: {x: 0.0017529295, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kubi
+      parentName: mune
+      position: {x: -0, y: 0.002314453, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: atama
+      parentName: kubi
+      position: {x: -0, y: 0.0006425781, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.099999994
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
